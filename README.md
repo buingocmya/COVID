@@ -1,5 +1,6 @@
 # COVID
 Chức năng: Tra cứu thông tin, số liệu Covid của quốc gia theo ngày
+
 Ngôn ngữ sử dụng: Python
 
 1. Đăng nhập
