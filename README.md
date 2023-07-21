@@ -1,4 +1,4 @@
-# COVID
+# COVIDINFO
 Chức năng: Tra cứu thông tin, số liệu Covid của quốc gia theo ngày
 
 Ngôn ngữ sử dụng: Python
